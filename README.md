@@ -2,7 +2,7 @@
 
 > If it works, break it
 
-I use: `.js` `.ts` `.py` `.html` `.css` `.json` `.sh`
+I use: `.js/x` `.ts/x` `.py` `.html` `.css` `.json` `.sh`
 
 <!--
 **JoelTurtiainen/JoelTurtiainen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
