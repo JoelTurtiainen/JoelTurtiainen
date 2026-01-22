@@ -4,7 +4,7 @@
 
 I use: CachyOS, openSUSE
 
-Languages: `.js/x` `.ts/x` `.py` `.sh` `.html` `.css` `.json` 
+Languages: `.js/x` `.ts/x` `.py` `.sh` `.html` `.css`
 
 <!--
 **JoelTurtiainen/JoelTurtiainen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
